@@ -1,0 +1,2 @@
+class ComparableProperty < ApplicationRecord
+end

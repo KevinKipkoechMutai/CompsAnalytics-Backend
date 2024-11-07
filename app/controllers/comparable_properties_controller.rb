@@ -1,0 +1,2 @@
+class ComparablePropertiesController < ApplicationController
+end
